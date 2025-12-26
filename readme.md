@@ -16,3 +16,35 @@ function subscribe() {
   }
 }
 ```
+Add emoji
+
+:smile: renders as 😄
+
+:laughing: renders as 😆
+
+:heart: renders as ❤️
+
+:tada: renders as 🎉
+
+:rocket: renders as 🚀
+
+:banana:
+:monkey:
+
+Test Check Box
+- [ ] ItemOne
+- [ ] Item Two
+
+* [x] CompleteCheck box
+
+* [x] Uncomplete Check box
+
+Math block:
+
+$$
+\displaystyle
+\left( \sum_{k=1}^n a_k b_k \right)^2
+\leq
+\left( \sum_{k=1}^n a_k^2 \right)
+\left( \sum_{k=1}^n b_k^2 \right)
+$$
